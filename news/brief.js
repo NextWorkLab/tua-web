@@ -40,6 +40,9 @@ async function loadEditions() {
     issue.append(element("h2", formatDate(date)));
     for (const story of editions[date]) {
       const article = document.createElement("article");
+      if (["Healthcare", "Research", "Medical"].includes(story.category)) {
+        article.append(element("p", story.category, "category"));
+      }
       article.append(element("h3", story.title), element("p", story.summary));
       const takeaway = document.createElement("p");
       takeaway.append(element("strong", "Why it matters "), story.takeaway);
