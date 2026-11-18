@@ -1,35 +1,38 @@
 {
   "2026-11-18": [
     {
-      "title": "Korea plans chronic care fees for COPD and asthma in 2027",
-      "summary": "Dailymedi reports that the Ministry of Health and Welfare plans to extend chronic disease management fees to COPD and asthma in 2027. The fees would support clinics that provide education and counseling to patients with chronic respiratory disease.",
-      "takeaway": "Respiratory care suppliers can watch for details on how clinics will deliver and document patient education.",
+      "category": "Healthcare",
+      "title": "Jindo County seeks in-home bathing providers",
+      "summary": "Jindo County reopened recruitment on November 17 for organizations to provide in-home bathing through its integrated community care program. Applicants must submit their materials in person to the county’s Integrated Care Team by November 23 at 6 p.m. local time.",
+      "takeaway": "Home-care equipment suppliers can use county notices like this to learn how Korea organizes local care delivery and which types of providers may be potential partners.",
       "sources": [
         {
-          "label": "Dailymedi (Korean)",
-          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=2201&wr_id=942673"
+          "label": "Jindo County notice (Korean)",
+          "url": "https://www.jindo.go.kr/home/gosi/general.cs?act=view&notAncmtMgtNo=26439"
         }
       ]
     },
     {
-      "title": "Ewha medical center patents AI-based device tracking",
-      "summary": "Ewha Womans University Medical Center registered a patent for a system that combines location and prescription data to identify which devices were used. The system draws on device usage and repair histories to support preventive maintenance and recall response.",
-      "takeaway": "The patent illustrates how hospitals are exploring device tracking as part of safety and maintenance workflows.",
+      "category": "Research",
+      "title": "Yeouido St. Mary’s and Soongsil expand clinical AI collaboration",
+      "summary": "Yeouido St. Mary’s Hospital said on November 17 that it signed a research cooperation agreement with Soongsil University’s AI-Bio Convergence Institute at a joint symposium on November 13. The symposium featured clinical research using large healthcare datasets and discussed future applications of AI in clinical medicine.",
+      "takeaway": "International clinical AI developers evaluating Korean validation partners can look to this hospital–university collaboration, although the announcement did not invite external applicants.",
       "sources": [
         {
-          "label": "Medical Times (Korean)",
-          "url": "https://medicaltimes.com/Main/News/NewsView.html?ID=1171912"
+          "label": "The Catholic University of Korea announcement (Korean)",
+          "url": "https://medicine.catholic.ac.kr/nursing/community/news.do?articleNo=105398&mode=view"
         }
       ]
     },
     {
-      "title": "Novartis links Korean radioligand investment to patient access",
-      "summary": "Novartis announced plans in July to invest about KRW 140 billion in Korean radioligand therapy manufacturing and logistics. In a November interview, its Korea chief identified patient access as a key factor, with no construction timetable set.",
-      "takeaway": "The investment illustrates how access and reimbursement conditions can shape decisions about local manufacturing.",
+      "category": "Medical",
+      "title": "Korea’s device regulator explains its innovative-device pathway",
+      "summary": "South Korea’s Ministry of Food and Drug Safety announced a November 16 forum on how innovative medical devices are designated and reviewed, including examples involving digital medical devices. The agenda also covered health insurance and software cybersecurity; the announcement did not introduce a new approval or reimbursement rule.",
+      "takeaway": "International device makers can use the agenda to identify which questions to raise about designation, evidence requirements and reimbursement before planning a Korean launch.",
       "sources": [
         {
-          "label": "Medical Times (Korean)",
-          "url": "https://medicaltimes.com/Main/News/NewsView.html?ID=1171876"
+          "label": "Ministry of Food and Drug Safety release (Korean)",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156789282"
         }
       ]
     }
