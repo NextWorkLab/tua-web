@@ -36,5 +36,43 @@
         }
       ]
     }
+  ],
+  "2026-11-19": [
+    {
+      "category": "Healthcare",
+      "title": "Anseong links home nurses with visiting doctors",
+      "summary": "South Korea’s health minister visited Anseong’s home nursing center on November 18 to review how it coordinates care with local clinics. The center, jointly operated by the city and the Korean Nurses Association since September, provides services such as wound care and medication management for older adults with limited mobility.",
+      "takeaway": "Home-care suppliers evaluating Korean partners can use Anseong’s model to understand how municipal programs, nurses and clinics divide responsibility for care at home.",
+      "sources": [
+        {
+          "label": "Ministry of Health and Welfare release (Korean)",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?gubun=pressRelease&newsId=156789794&pageIndex=1&repCode=nts"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Korean study tests an MRI marker after transient ischemic attack",
+      "summary": "In a study published on November 18, a Korean team compared 329 consecutive patients with transient ischemic attack and negative diffusion-weighted MRI according to whether a separate contrast-enhanced MRI marker was present. Recurrent ischemic stroke was more common in the marker-positive group (13.3% versus 3.0%), but the marker did not independently predict recurrence after adjustment.",
+      "takeaway": "Imaging companies planning Korean validation studies can use this design as a reference for testing whether a new marker adds predictive value beyond existing risk measures.",
+      "sources": [
+        {
+          "label": "Scientific Reports article",
+          "url": "https://www.nature.com/articles/s41598-026-79900-5"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Korea outlines hospital AI pilots and payment plans",
+      "summary": "At a November 18 government forum, Seoul National University Hospital and Premier Partners signed an agreement to identify clinical needs and support investment in medical AI for regional, essential and public care. The health ministry discussed linking field pilots to its public-hospital AI network and reviewing reimbursement approaches, but did not announce a new payment rate.",
+      "takeaway": "International medical AI vendors can follow the hospital pilot plans while budgeting separately for reimbursement, which remains under development.",
+      "sources": [
+        {
+          "label": "Ministry of Health and Welfare release (Korean)",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789705&pWise=mSub&pWiseSub=C5"
+        }
+      ]
+    }
   ]
 }
