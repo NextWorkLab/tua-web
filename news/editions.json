@@ -74,5 +74,43 @@
         }
       ]
     }
+  ],
+  "2026-11-20": [
+    {
+      "category": "Healthcare",
+      "title": "Bonghwa launches home exercise visits",
+      "summary": "Bonghwa County began rolling out a program in November that sends physical therapists to the homes of integrated-care recipients with limited mobility. The county is working with the Gyeongbuk branch of the Korean Physical Therapy Association and a home-exercise association, and eligible residents include people who need community support after discharge.",
+      "takeaway": "Home-rehabilitation suppliers can look to the county’s delivery partners to learn what tools therapists can use during routine home visits.",
+      "sources": [
+        {
+          "label": "Joongdo Ilbo reporting on Bonghwa County’s announcement (Korean)",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261119010006658"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Korean dietary screener shows uneven agreement",
+      "summary": "A cross-sectional study led by Seoul National University Bundang Hospital compared a food-group questionnaire with two 24-hour dietary recalls in 185 Korean adults. The methods placed participants in the same or an adjacent intake quartile 73.5% of the time on average, but agreement on sodium intake thresholds did not exceed chance.",
+      "takeaway": "Nutrition-app developers testing in Korea should validate each nutrient separately before using questionnaire results to flag intake risks.",
+      "sources": [
+        {
+          "label": "Frontiers in Nutrition study",
+          "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1984011/full"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Korea issues two device usability guides",
+      "summary": "South Korea’s Ministry of Food and Drug Safety issued two guides on November 18 to help manufacturers evaluate and document usability for good manufacturing practice reviews. The guides draw on IEC 62366-1 and provide examples for four device types, including pulse oximeters and single-use endoscopic biopsy instruments.",
+      "takeaway": "Manufacturers preparing for Korean review can use the examples to check their usability test plans and reports without treating the guidance as a new approval rule.",
+      "sources": [
+        {
+          "label": "Ministry of Food and Drug Safety release (Korean)",
+          "url": "https://mfds.go.kr/brd/m_99/view.do?company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=1&seq=50505&srchFr=&srchTo=&srchTp=&srchWord="
+        }
+      ]
+    }
   ]
 }
