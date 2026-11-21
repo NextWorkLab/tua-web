@@ -112,5 +112,43 @@
         }
       ]
     }
+  ],
+  "2026-11-21": [
+    {
+      "category": "Healthcare",
+      "title": "Incheon’s Yeonsu District staffs all 15 neighborhoods for integrated care",
+      "summary": "Yeonsu District said it had assigned dedicated integrated-care staff to all 15 neighborhood welfare centers to identify residents who need help and connect them with medical, long-term care and other support services. Four regional groups, involving the district, public health centers and the National Health Insurance Service, have been reviewing individual cases since September.",
+      "takeaway": "Home-care companies can use Yeonsu’s setup to identify who handles referrals and where a service or tool might fit into the local care process.",
+      "sources": [
+        {
+          "label": "Yeonsu District release (Korean)",
+          "url": "https://www.yeonsu.go.kr/main/community/notify/report.asp?category=&dept_idx=&e_date=&eminwon=&gotopage=1&head_idx=&head_idx_cateYN=&keyfield=&keyword=&listCnt=classf_link_bu+f_l&page=v&s_date=&se_dept_idx=&seq=29686"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Korean study evaluates a driving self-assessment app for older adults",
+      "summary": "Kangwon National University researchers analyzed smartphone self-assessments from 610 Korean adults aged 65 or older in a cross-sectional study using data collected in 2018 and 2019. Lower scores for vehicle control and vision were associated with having stopped driving, while lower scores in several thinking and health domains were associated with self-reported recent crashes.",
+      "takeaway": "Developers of driving-assessment tools can use the results to choose what to test with Korean partners, but need prospective data before claiming the tool predicts crashes.",
+      "sources": [
+        {
+          "label": "Applied Sciences study",
+          "url": "https://www.mdpi.com/2076-3417/16/22/11514"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "National Cancer Center posts draft specifications for accessible kiosks",
+      "summary": "South Korea’s National Cancer Center published draft procurement specifications on November 20 for accessible kiosks that support outpatient check-in and basic measurements. The notice is a pre-tender disclosure, not confirmation of a purchase, contract award or installation.",
+      "takeaway": "International kiosk and measurement-system suppliers can track the eventual tender to see how a Korean public hospital combines accessibility, check-in and routine measurements.",
+      "sources": [
+        {
+          "label": "National Cancer Center procurement notice list (Korean)",
+          "url": "https://www.ncc.re.kr/board.ncc?pageNum=1&searchKey=total&searchValue=&uri=notice04"
+        }
+      ]
+    }
   ]
 }
