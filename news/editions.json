@@ -196,5 +196,43 @@
         }
       ]
     }
+  ],
+  "2026-11-23": [
+    {
+      "category": "Healthcare",
+      "title": "Gumi recruits local integrated-care providers",
+      "summary": "Gumi posted a call on November 23 for organizations to deliver services under its local Gumi Baro Care program. Providers must apply in person between December 3 and December 7, with applications closing at 18:00 Korea time on the final day.",
+      "takeaway": "For overseas companies, the recruitment identifies Gumi’s Integrated Care Team as a starting point for learning which local service operators could be implementation partners.",
+      "sources": [
+        {
+          "label": "Gumi City recruitment notice (Korean)",
+          "url": "https://www.gumi.go.kr/portal/saeol/gosi/view.do?mid=0401040000&notAncmtMgtNo=074807&seCode=04"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Korean study tracks mobility in a community walking program",
+      "summary": "A Korean university team conducted a 10-week nonrandomized controlled study with 30 adults aged 60 to 79, of whom 25 completed follow-up. Two-minute step counts rose in the supervised barefoot-walking group and fell in the usual-lifestyle group, but the study did not compare the program with walking in shoes.",
+      "takeaway": "Companies testing mobility products with Korean community partners can consider this team’s field-testing approach and use an active comparison group to distinguish product effects from exercise effects.",
+      "sources": [
+        {
+          "label": "BMC Public Health study",
+          "url": "https://link.springer.com/article/10.1186/s12889-026-30340-w"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "NHIS Ilsan Hospital reopens medical equipment tender",
+      "summary": "National Health Insurance Service Ilsan Hospital reissued a restricted competitive tender on November 20 for four units across three categories of medical equipment. The hospital will review technical eligibility before opening price bids, with submissions due November 26 at 10:00 Korea time.",
+      "takeaway": "Suppliers considering this procurement should review the hospital’s technical specifications and bidder eligibility with a Korean partner before pricing a bid.",
+      "sources": [
+        {
+          "label": "NHIS Ilsan Hospital reissued tender (Korean)",
+          "url": "https://www.nhimc.or.kr/board/commBoardBidView.do?no=12235"
+        }
+      ]
+    }
   ]
 }
