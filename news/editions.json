@@ -150,5 +150,51 @@
         }
       ]
     }
+  ],
+  "2026-11-22": [
+    {
+      "category": "Healthcare",
+      "title": "Korea publishes proposals for its first five-year integrated care plan",
+      "summary": "South Korea’s Ministry of Health and Welfare released hearing materials on November 20 for its draft 2026–2030 integrated community care plan. The underlying research examined ways to expand eligibility and services and narrow regional gaps, but the ministry said the plan would be finalized only after further consultation and review.",
+      "takeaway": "Home-care companies can use the proposals to identify potential areas for local collaboration, without treating them as funded programs or procurement notices.",
+      "sources": [
+        {
+          "label": "Ministry of Health and Welfare hearing materials (Korean)",
+          "url": "https://mohw.go.kr/board.es?act=view&bid=0073&list_no=1492604&mid=a60401000000"
+        },
+        {
+          "label": "Ministry of Health and Welfare release (Korean)",
+          "url": "https://m.korea.kr/briefing/pressReleaseView.do?newsId=156789919"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Wearable study tracks sleep across Korean hospital shifts",
+      "summary": "In an exploratory study published November 21, 30 nurses at one South Korean hospital wore sleep-tracking rings and completed daily surveys for at least 28 days. Their recorded sleep was shorter after night shifts than after day or evening shifts, and sleep on days off varied with the surrounding work schedule.",
+      "takeaway": "Wearable developers planning Korean hospital studies can use this design to evaluate how shift sequences affect measurements rather than grouping participants by shift type alone.",
+      "sources": [
+        {
+          "label": "Healthcare journal study",
+          "url": "https://www.mdpi.com/2227-9032/14/23/4009"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Korea revises medical device spending disclosures",
+      "summary": "A South Korean medical device distribution rule took effect on November 20, revising disclosures of financial benefits provided to healthcare professionals and institutions. The updated reporting form and disclosure-timing provision apply from the following fiscal year, and the form calls for recording transaction amounts before payment-term discounts.",
+      "takeaway": "International device makers can check with Korean sales partners whether their systems capture pre-discount amounts for the applicable reporting period.",
+      "sources": [
+        {
+          "label": "Korean Law Information Center rule (Korean)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B8%B0%EC%9C%A0%ED%86%B5%EB%B0%8F%ED%8C%90%EB%A7%A4%EC%A7%88%EC%84%9C%EC%9C%A0%EC%A7%80%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%B9%99"
+        },
+        {
+          "label": "Regulation text and transitional provisions (Korean)",
+          "url": "https://lawplayer.com/kr/act/011813"
+        }
+      ]
+    }
   ]
 }
