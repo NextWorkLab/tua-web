@@ -234,5 +234,43 @@
         }
       ]
     }
+  ],
+  "2026-11-24": [
+    {
+      "category": "Healthcare",
+      "title": "Ganghwa County plans to expand home-based care",
+      "summary": "Ganghwa County said on November 23 that its integrated care program had reached 250 people in its first year, with services including home exercise visits and transitional housing after discharge. The county plans to add hospital caregiver-cost assistance, adult incontinence supplies and a home safety monitoring service in 2027.",
+      "takeaway": "Overseas home-care companies can use the county’s plans to identify where local providers may need monitoring or rehabilitation tools for use outside hospitals.",
+      "sources": [
+        {
+          "label": "Ganghwa County announcement (Korean)",
+          "url": "https://www.ganghwa.go.kr/main/bbs/bbsMsgDetail.do?bcd=report&listsz=10&msg_seq=23440&pgno=1"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Hanyang team tests wrist pulse data for vascular age estimation",
+      "summary": "Researchers at Hanyang University and its Guri Hospital used simulated training data and existing human recordings to test a model that estimates vascular age from a wrist artery waveform and blood pressure. Mean absolute error against chronological age was about seven years in two cohorts with normal blood pressure, and the study did not test whether the estimates predict cardiovascular events.",
+      "takeaway": "Cardiovascular device developers could approach the team about prospectively validating the model with noninvasive sensors and clinical outcomes.",
+      "sources": [
+        {
+          "label": "Frontiers in Physiology study",
+          "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1949336/full"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Dongwoon Anatech reports digital-device GMP milestone",
+      "summary": "Dongwoon Anatech said it received Korea’s digital medical device manufacturing quality certificate for its D-SaLife saliva glucose monitoring system on November 23, after the regulator issued it on November 5. The certificate does not authorize the product for sale, and the company said clinical trials and other regulatory steps remain.",
+      "takeaway": "Overseas developers of software-enabled diagnostics should plan for manufacturing quality compliance separately from clinical evidence and product authorization.",
+      "sources": [
+        {
+          "label": "Dongwoon Anatech announcement (Korean)",
+          "url": "https://www.dwanatech.com/news/?bmode=view&idx=175865753&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board"
+        }
+      ]
+    }
   ]
 }
