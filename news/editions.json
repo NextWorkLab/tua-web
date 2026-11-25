@@ -272,5 +272,47 @@
         }
       ]
     }
+  ],
+  "2026-11-25": [
+    {
+      "category": "Healthcare",
+      "title": "Goryeong reviews home exercise for its 2027 care plan",
+      "summary": "On November 24, Goryeong County listed a public consultation on its draft 2027 integrated care plan. The county’s care council reviewed the draft, which proposes home exercise visits, balanced meals and closer coordination with local medical providers.",
+      "takeaway": "Companies offering home exercise or nutrition services can track the consultation for a clearer picture of what the county plans to deliver with local partners.",
+      "sources": [
+        {
+          "label": "Goryeong County public notices",
+          "url": "https://www.goryeong.go.kr/kor/"
+        },
+        {
+          "label": "Newsro: Goryeong care council report",
+          "url": "https://www.newsro.kr/articles/1937882"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Korean pilot tests electroacupuncture for radiating leg pain",
+      "summary": "A Korean research team randomized 45 patients with lumbar radicular leg pain to six weeks of electroacupuncture or a sham procedure and assessed pain and brain activity before and after treatment. The electroacupuncture group had an adjusted 1.49-point greater reduction in leg pain, but whether the observed changes in brain connectivity explained symptom improvement remains unclear.",
+      "takeaway": "Developers of non-drug pain devices can use the study as a reference for designing sham controls and pairing patient-reported outcomes with imaging in a Korean pilot.",
+      "sources": [
+        {
+          "label": "BMC Complementary Medicine and Therapies: original study",
+          "url": "https://link.springer.com/article/10.1186/s12906-026-05701-y"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Yangsan hospital reopens blood cell separator tender",
+      "summary": "Pusan National University Yangsan Hospital reopened bidding for one automated blood cell separator and its installation, with a contract estimate of KRW 176 million including VAT. Bids close at 10:00 a.m. Korea time on November 30, and the specification calls for continuous-flow operation for uses including therapeutic plasma exchange and cell collection.",
+      "takeaway": "Overseas suppliers should check whether a Korean distributor meets the tender’s product registration, medical-device business and small-business eligibility requirements.",
+      "sources": [
+        {
+          "label": "KONEPS: official rebid notice and specifications (ZIP)",
+          "url": "https://www.g2b.go.kr/pn/pnp/pnpe/UntyAtchFile/downloadFile.do?bidPbancNo=R26BK01851610&bidPbancOrd=000&fileSeq=1&fileType=&prcmBsneSeCd=01"
+        }
+      ]
+    }
   ]
 }
