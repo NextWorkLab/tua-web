@@ -314,5 +314,43 @@
         }
       ]
     }
+  ],
+  "2026-11-26": [
+    {
+      "category": "Healthcare",
+      "title": "Korea seeks an operator for older adults’ knee surgery support",
+      "summary": "On November 25, the Ministry of Health and Welfare opened a call for an organization to run the 2027 knee replacement surgery support program for older adults. The call is part of the ministry’s older-adult health program and accepts applications through December 10.",
+      "takeaway": "Orthopedic and rehabilitation companies can track the operator selection to identify which organization will coordinate this publicly supported pathway to surgery.",
+      "sources": [
+        {
+          "label": "Ministry of Health and Welfare: operator call",
+          "url": "https://www.mohw.go.kr/board.es?act=view&bid=0003&list_no=1492659&mid=a10501010000"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Hongik study finds barriers in mobile public services for older adults",
+      "summary": "A Hongik University-led study asked 35 adults aged 20–29 and 30 adults aged 69–91 to attempt three Gov24 certificate workflows on their own phones. The younger group completed every attempt, compared with completion rates of 17%, 3% and 3% across the three workflows in the older group.",
+      "takeaway": "Companies building digital health services for Korea can use the study’s approach to test whether older adults can complete an entire workflow, including authentication and handoffs, without help.",
+      "sources": [
+        {
+          "label": "Frontiers in Psychology: original study",
+          "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1941895/full"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "National Cancer Center reopens cardiac monitor tender",
+      "summary": "Korea’s National Cancer Center reopened bidding on November 25 for two thermodilution cardiac output monitors under general competition, with a total budget of KRW 40 million including VAT. Bids close on December 1 at 11:00 Korea time, and the center reviews technical specifications before opening price bids.",
+      "takeaway": "Overseas monitor makers should confirm that a Korean supplier can document local device authorization and submit the required technical materials as well as the electronic bid.",
+      "sources": [
+        {
+          "label": "KONEPS: National Cancer Center tender notice (PDF)",
+          "url": "https://www.g2b.go.kr/pn/pnp/pnpe/UntyAtchFile/downloadFile.do?bidPbancNo=R26BK01857235&bidPbancOrd=000&fileSeq=2&fileType=&prcmBsneSeCd=01"
+        }
+      ]
+    }
   ]
 }
