@@ -352,5 +352,43 @@
         }
       ]
     }
+  ],
+  "2026-11-27": [
+    {
+      "category": "Healthcare",
+      "title": "Gimpo outlines an expansion of community care",
+      "summary": "Gimpo reported on November 26 that its integrated care council had reviewed the city’s 2027 health and long-term care plan. The plan calls for expanding six existing local services and introducing five services led by the public health center, with a planned budget of KRW 1.6 billion.",
+      "takeaway": "Overseas companies offering home-based care tools can watch the city’s integrated care team and public health center for service specifications and partnership opportunities as the plan moves into implementation.",
+      "sources": [
+        {
+          "label": "Gimpo City: integrated care plan review (Korean)",
+          "url": "https://m.gimpo.go.kr/news/selectBbsNttView.do?bbsNo=466&key=9377&nttNo=1039614&pageIndex=1&pageUnit=10&searchCnd=all&searchKrwd=%EC%88%98%EB%A6%BD"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Daegu study tests agreement between newborn jaundice measurements",
+      "summary": "A single-center retrospective study at Daegu Fatima Hospital compared paired skin and blood bilirubin measurements in 100 newborns admitted primarily for jaundice. The two methods were strongly correlated but placed 34% of infants in different study-defined ranges, which were not treatment thresholds.",
+      "takeaway": "Diagnostic device makers planning validation in Korea can use this study as a model for checking agreement near relevant cutoffs rather than relying on correlation alone.",
+      "sources": [
+        {
+          "label": "Children: original study",
+          "url": "https://www.mdpi.com/2227-9067/13/12/1658"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Veterans hospital reopens tender for seven equipment types",
+      "summary": "Korea’s Veterans Health Service Medical Center reopened a restricted tender on November 26 for seven types of medical equipment, with technical and price bids submitted together and prices opened after technical review. Registration and bid security are due December 1 at 18:00 Korea time, and bids close December 2 at 10:00.",
+      "takeaway": "Overseas device makers considering this tender should check whether their Korean distributor can meet the technical requirements and file bid security before the earlier registration deadline.",
+      "sources": [
+        {
+          "label": "Korea Veterans Health Service: official tender notice (Korean)",
+          "url": "https://newhome.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=32388&nttSn=191714"
+        }
+      ]
+    }
   ]
 }
