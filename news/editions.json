@@ -390,5 +390,47 @@
         }
       ]
     }
+  ],
+  "2026-11-28": [
+    {
+      "category": "Healthcare",
+      "title": "Suwon approves its 2027 integrated care plan",
+      "summary": "Suwon’s integrated care council approved the city’s 2027 health and long-term care plan on November 26, the city announced the following day. The plan prioritizes identifying residents who need support earlier, expanding care services, and helping patients return to the community after discharge.",
+      "takeaway": "Companies offering discharge coordination or home-based care tools can use the plan to identify potential partners among Suwon’s hospitals and community providers.",
+      "sources": [
+        {
+          "label": "Suwon City announcement",
+          "url": "https://www.suwon.go.kr/web/board/BD_board.view.do?bbsCd=1043&seq=20261127095242865"
+        },
+        {
+          "label": "Suwon Public Health Center discharge support program",
+          "url": "https://health.suwon.go.kr/sub.asp?page_code=sub051002"
+        }
+      ]
+    },
+    {
+      "category": "Research",
+      "title": "Kyung Hee dyspepsia trial finds no overall symptom advantage",
+      "summary": "Kyung Hee University researchers reported an eight-week, double-blind trial that randomized 144 adults with dyspeptic symptoms in Seoul to two doses of a botanical blend or placebo. Neither dose significantly outperformed placebo on overall questionnaire scores, although the higher dose showed differences on selected symptom items.",
+      "takeaway": "For companies planning Korean trials of digestive-health products, the study illustrates why a prespecified symptom endpoint matters when overall scores also improve with placebo.",
+      "sources": [
+        {
+          "label": "Nutrients trial report",
+          "url": "https://www.mdpi.com/2072-6643/18/23/3979"
+        }
+      ]
+    },
+    {
+      "category": "Medical",
+      "title": "Korea updates usability guidance for medical devices",
+      "summary": "South Korea’s Ministry of Food and Drug Safety announced a new usability evaluation guide for self-test in vitro diagnostics and a revised usability review Q&A for digital medical devices on November 27. The former covers test plans and reporting, while the latter addresses hospital-system integration, how software presents interpretations, and what to submit after software version changes.",
+      "takeaway": "Manufacturers preparing Korean submissions can use the guidance to plan usability evidence for home users or for software embedded in hospital workflows, depending on the product.",
+      "sources": [
+        {
+          "label": "Ministry of Food and Drug Safety release",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156791113"
+        }
+      ]
+    }
   ]
 }
